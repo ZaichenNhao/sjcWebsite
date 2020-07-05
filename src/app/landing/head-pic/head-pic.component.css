@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.banner_picture{
+  z-index: 1;
+  width: stretch;
+  height: 100vh;
+}
+.title{
+  z-index: 1;
+}
